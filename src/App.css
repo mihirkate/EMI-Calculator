@@ -1,0 +1,11 @@
+/* src/App.css */
+/* Import Figtree font */
+@import url("https://fonts.googleapis.com/css2?family=Figtree:wght@400;700&display=swap");
+
+/* Apply Figtree font to the body */
+body {
+  font-family: "Figtree", sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
